@@ -85,14 +85,12 @@
                 android:id="@+id/emailText"
                 android:layout_width="280dp"
                 android:layout_height="wrap_content"
-
                 android:layout_gravity="center"
                 android:layout_marginTop="10dp"
                 android:background="@color/colorAccent"
                 android:drawableStart="@drawable/ic_email_black_24dp"
                 android:drawableLeft="@drawable/ic_email_black_24dp"
                 android:hint="이메일"
-                android:inputType="textPassword"
                 android:padding="10dp"
                 android:textColor="#FFFFFF"
                 android:textColorHint="#FFFFFF" />
